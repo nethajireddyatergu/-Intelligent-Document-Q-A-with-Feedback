@@ -1,0 +1,12 @@
+langchain
+chromadb
+google-generativeai
+unstructured
+pymupdf
+python-docx
+pypdf
+fastapi
+uvicorn
+streamlit
+requests
+python-dotenv
